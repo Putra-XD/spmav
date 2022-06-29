@@ -5,7 +5,7 @@ $ Tolls Spam Wa,SMS,Telfon
 # Install
 $ git clone https://github.com/Putra-XD/spmav
 
-$ cd spam
+$ cd spmav
 
 $ python spamv2.py
 
